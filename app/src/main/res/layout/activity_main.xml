@@ -150,10 +150,5 @@
             android:id="@+id/button"
             android:layout_gravity="center_vertical"
             android:clickable="false" />
-
-
     </LinearLayout>
-
-
-
 </RelativeLayout>
